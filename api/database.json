@@ -1,0 +1,43 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "10",
+      "plumberId": "1",
+      "date_created": "3/21/2023",
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Sink leaking",
+      "address": "",
+      "budget": "",
+      "neededBy": "",
+      "id": 8
+    },
+    {
+      "description": "Flooded Basement",
+      "address": "2 Way Road",
+      "budget": "1000",
+      "neededBy": "2023-03-23",
+      "id": 9
+    },
+    {
+      "description": "Maude needs a snuggle",
+      "address": "",
+      "budget": "",
+      "neededBy": "",
+      "id": 10
+    }
+  ]
+}

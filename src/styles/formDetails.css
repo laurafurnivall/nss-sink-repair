@@ -1,0 +1,19 @@
+.field {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 10px 0px;
+}
+
+.label {
+    font-size:medium
+}
+
+.button {
+    margin: 10px 0px;
+    padding: 0.5rem;
+    background-color: steelblue;
+    color: whitesmoke;
+    font-size: 1rem;
+    border-radius: 5px;
+}
